@@ -1,7 +1,8 @@
-# Freemotes
+# Freemotes V.1.5
  "Free" Discord Nitro with extra steps
  ~~Basically a gif sender~~
-##### All gif emotes are 49x49 to mimic real emotes at standard Discord size
+#### All gif emotes are edited to 49px x 49px to mimic real emotes at standard Discord size
+
 
 How it works...
 
@@ -21,3 +22,5 @@ On Tab Press:
  	> input: ":pepel" + tab key press
  	> output: ":pepelaugh:"
 
+## Download Link
+[Download Freemotes](https://github.com/minjualgae/Freemotes/raw/main/freemote.exe)

@@ -9,8 +9,6 @@ import time
 
 emote = [""]
 
-cx = 0
-
 emote_dict = {}
 
 # Loads Emotes
@@ -22,9 +20,10 @@ with open("freemotes.csv", "r") as f:
         print(f"Emote Loaded: {row[0]}")
 
     f.close()
+
 # Main func
 def on_press(key):
-    global emote, cx
+    global emote
     
     if key == Key.shift_r or key == Key.shift_l:
         return
@@ -77,6 +76,8 @@ def on_press(key):
                 pyautogui.typewrite(rd)
                 pyautogui.typewrite(":")
 
-# stuff i dont understand
+# Stuff I don't understand
 with Listener(on_press=on_press,on_release=None) as listener:
     listener.join()
+
+# You're probably better off getting Discord Nitro if you're reading this
