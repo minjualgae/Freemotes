@@ -1,4 +1,4 @@
-# Freemotes V.1.5
+# Leek's Freemotes V.1.5
  "Free" Discord Nitro with extra steps
  ~~Basically a gif sender~~
 #### All gif emotes are edited to 49px x 49px to mimic real emotes at standard Discord size
