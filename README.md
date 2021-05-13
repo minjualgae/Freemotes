@@ -33,4 +33,4 @@ You can make your own freemotes.csv, just follow the format in the premade freem
 [Download freemotes.exe](https://github.com/minjualgae/Freemotes/raw/main/Freemotes/freemote.exe)
 
 ### Freemotes.csv
-[Download premade freemotes.csv](https://drive.google.com/file/d/1VkETFiftPUtEsFZ20wx3ke3KJXkUc00H/view) <-- For Duan smh
+[Download premade freemotes.csv](https://drive.google.com/file/d/1VkETFiftPUtEsFZ20wx3ke3KJXkUc00H/view) <-- Made For Duan
