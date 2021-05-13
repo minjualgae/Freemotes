@@ -3,6 +3,7 @@
  ~~Basically a gif sender~~
 #### All gif emotes are edited to 49px x 49px to mimic real emotes at standard Discord size
 
+![ghost](https://media.giphy.com/media/8t1i5Zq4dffx2d6v1R/giphy.gif)
 
 How it works...
 
