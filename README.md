@@ -23,4 +23,12 @@ On Tab Press:
  	> output: ":pepelaugh:"
 
 ## Download Link
-[Download Freemotes](https://github.com/minjualgae/Freemotes/raw/main/freemote.exe)
+
+I used pyinstaller to convert the script into a .exe if anyone wants to try it directly
+
+Make sure both freemotes.exe and freemotes.csv are in the same directory or file for it to run properly
+
+
+[Download Freemotes.exe](https://github.com/minjualgae/Freemotes/raw/main/freemote.exe)
+
+[Download Freemotes.csv](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/minjualgae/Freemotes/blob/main/Freemotes/freemotes.csv)
