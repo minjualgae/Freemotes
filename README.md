@@ -29,6 +29,4 @@ I used pyinstaller to convert the script into a .exe if anyone wants to try it d
 Make sure both freemotes.exe and freemotes.csv are in the same directory or file for it to run properly
 
 
-[Download Freemotes.exe](https://github.com/minjualgae/Freemotes/raw/main/freemote.exe)
-
-[Download Freemotes.csv](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/minjualgae/Freemotes/blob/main/Freemotes/freemotes.csv)
+[Download Both freemotes.exe and freemotes.csv](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/minjualgae/Freemotes/tree/main/Freemotes)
