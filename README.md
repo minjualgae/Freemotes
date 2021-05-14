@@ -23,6 +23,9 @@ On Tab Press:
  	> input: ":pepel" + tab key press
  	> output: ":pepelaugh:"
 
+## Freemote Editor
+Converts all gifs in folder to 49x49 size using moviepy
+
 ## Download Link
 
 I used pyinstaller to convert the script into a .exe if anyone wants to try it directly
